@@ -1,0 +1,8 @@
+{
+  "name": "react-scaffold",
+  "version": "1.0.0",
+  "description": "Scaffold Homework for building react",
+  "main": "index.js",
+  "author": "Sunny",
+  "license": "ISC"
+}
