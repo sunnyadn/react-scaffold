@@ -6,6 +6,7 @@
   "author": "Sunny",
   "license": "ISC",
   "devDependencies": {
-    "parcel-bundler": "^1.12.4"
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^2.1.2"
   }
 }
